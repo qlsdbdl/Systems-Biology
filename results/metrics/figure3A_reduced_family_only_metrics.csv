@@ -1,0 +1,8 @@
+group,model,combo_id,seed,pearson_r,rmse_delta_log2,rates_file
+CREB1_self,CREB1 self,combo001_CREB1,0,0.6840098275377344,0.3349644508982121,outputs/figure3/runs/self_on_n01_combo001_CREB1_seed00_rates.txt
+ATF1,CREB1 + ATF1,combo011_CREB1-ATF1,0,0.7045699445193616,0.313796509072404,outputs/figure3/runs/self_on_n02_combo011_CREB1-ATF1_seed00_rates.txt
+ATF4,CREB1 + ATF4,combo012_CREB1-ATF4,0,0.701516277522414,0.3329450443954469,outputs/figure3/runs/self_on_n02_combo012_CREB1-ATF4_seed00_rates.txt
+ATF7,CREB1 + ATF7,combo013_CREB1-ATF7,0,0.8197557467258216,0.2663662759567268,outputs/figure3/runs/self_on_n02_combo013_CREB1-ATF7_seed00_rates.txt
+CREB3,CREB1 + CREB3,combo008_CREB1-CREB3,0,0.8003063763384589,0.2738204738103643,outputs/figure3/runs/self_on_n02_combo008_CREB1-CREB3_seed00_rates.txt
+CREB5,CREB1 + CREB5,combo009_CREB1-CREB5,0,0.7289781964380856,0.3115799739854545,outputs/figure3/runs/self_on_n02_combo009_CREB1-CREB5_seed00_rates.txt
+CREM,CREB1 + CREM,combo010_CREB1-CREM,0,0.7985660161570789,0.2748594490307449,outputs/figure3/runs/self_on_n02_combo010_CREB1-CREM_seed00_rates.txt
